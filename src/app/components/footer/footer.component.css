@@ -1,0 +1,35 @@
+footer{
+    margin-top:30px; 
+    display: flex;
+    background-color:rgb(0, 0, 255);
+    color: white;
+}
+footer h3{
+    color: #e3e8ef;
+    font-size: 30px;
+}
+.m{
+    margin: 3rem;
+}
+footer p{
+    /* margin-top: 1rem; */
+    margin-bottom: 1rem;
+}
+.logo{
+    margin-left: -2rem;
+}
+.logo h1{
+
+    color: #e3e8ef;
+
+}
+.logo-img i{
+    margin-top:1rem;
+    margin-right:10px;
+}
+
+.footer-last{
+    color: #e3e3e3;
+    margin-top:3rem;
+    
+}
